@@ -1,5 +1,5 @@
 cat
 dog
-duck
+kitty
 chicken
 pig
