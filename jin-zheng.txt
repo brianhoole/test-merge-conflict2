@@ -1,5 +1,5 @@
 cat
 dog
-duck
+peking duck
 chicken
 pig
